@@ -1,4 +1,4 @@
-# Mechanical-Design
+# Lifted Mass Ventilator
 Adjustable peak pressure and tidal volume ventilator fabricated from locally sourced parts worldwide
 
 Mass Actuated Ventilator Actuator
